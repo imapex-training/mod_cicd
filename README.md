@@ -217,6 +217,7 @@ This is a final phase that is commonly used to update any one/thing that needs t
 
 ## .drone.yml 
 
+#### Example
 ```
 build:
   run_tests:
@@ -243,7 +244,7 @@ Drone leverages a file called `.drone.yml` in the repository root to describe th
 [item]: # (slide)
 
 ## .drone.sec 
-
+#### Example
 ```
 cat drone-secrets.yml
 
