@@ -1,5 +1,5 @@
 
-## DevOps and CICD
+## CICD Process Flow
 
-![](images/devops-infinity.png)
+![](images/cicd.png)
 

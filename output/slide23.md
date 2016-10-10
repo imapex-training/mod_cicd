@@ -1,3 +1,3 @@
 
-# Why do we care... 
+# Why do we care 
 

@@ -1,12 +1,23 @@
-* What is CICD
-* Where did it come from? Manual Ops 
-* Relation to "DevOps" 
-* CICD Evolution
-
 [item]: # (slide)
 
-# Module: Continuous Integration and Continuous Deployment (CICD)
+![](http://imapex.io/images/imapex_standing_text_sm.png)
 
+# Module: CICD
+
+Continuous Integration Continous Delivery
+
+[item]: # (/slide)
+
+[item]: # (slide)
+# Main Topics
+
+* [Simplified Software Development Process](#simplified-software-development-process)
+* [CICD](#cicd)
+* [CICD Tools](#cicd-tools)
+* [Using Drone as a Build Server](#using-drone-as-a-build-server)
+* [Links](#links)
+* [Why do we care...](#why-do-we-care)
+* [Go Do It Exercises](#go-do-it-exercises)
 
 [item]: # (/slide)
 
@@ -58,7 +69,8 @@ Once new code has been packaged and delivered to the appropriate repository, it 
 
 [item]: # (slide)
 
-## CICD (CICDCD)
+## CICD 
+### ( or CICDCD)
 
 * **Continuous Integration**: Merging of development work with code base constantly so that automated testing can catch problems early
 * **Continuous Delivery**: Software package delivery mechanism for releasing code to staging for review and inspection
@@ -115,18 +127,6 @@ The basic architecture of Jenkins consists of Master and slave nodes, slave node
 [item]: # (/slide)
 
 While Jenkins is still widely used in many development shops, new competitors have emerged which change the paradigm for how we think about CI/CD.  These include Travis, CircleCI, and Drone to name a few.  The primary difference between these products and their predecessors is where the configuration for the build pipeline resides.  As mentioned previously Jenkins, Bamboo, and others relied on a seperate configuration which resided on the build server itself, whereas Drone, Travis, and CircleCI leverages a build configuration file which resides with the source code itself, and is therefore version controlled.
-
-[item]: # (slide)
-
-# Links 
-
-* [hudson-ci.org](http://hudson-ci.org)
-* [jenkins.io](https://jenkins.io)
-* [https://technologyconversations.com/2016/01/14/the-short-history-of-cicd-tools/](https://technologyconversations.com/2016/01/14/the-short-history-of-cicd-tools/)
-* [http://www.slideshare.net/Robert_McDermott/anatomy-of-a-continuous-integration-and-delivery-cicd-pipeline](http://www.slideshare.net/Robert_McDermott/anatomy-of-a-continuous-integration-and-delivery-cicd-pipeline)
-
-
-[item]: # (/slide)
 
 [item]: # (slide)
 
@@ -279,6 +279,10 @@ To gain an understanding of using Drone, we will leverage the lab at: [hpreston/
 
 ## Links 
 
+* [hudson-ci.org](http://hudson-ci.org)
+* [jenkins.io](https://jenkins.io)
+* [https://technologyconversations.com/2016/01/14/the-short-history-of-cicd-tools/](https://technologyconversations.com/2016/01/14/the-short-history-of-cicd-tools/)
+* [http://www.slideshare.net/Robert_McDermott/anatomy-of-a-continuous-integration-and-delivery-cicd-pipeline](http://www.slideshare.net/Robert_McDermott/anatomy-of-a-continuous-integration-and-delivery-cicd-pipeline)
 * [Drone Usage](http://readme.drone.io/usage/overview/) 
 * [Drone Plugins](http://readme.drone.io/plugins/) 
 * Example .drone.yml files for actual projects 
@@ -289,7 +293,7 @@ To gain an understanding of using Drone, we will leverage the lab at: [hpreston/
 
 [item]: # (slide)
 
-# Why do we care... 
+# Why do we care 
 
 [item]: # (/slide)
 

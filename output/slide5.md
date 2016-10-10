@@ -1,5 +1,5 @@
 
-## Deployment
+## Delivery
 
-![](images/deployment.png)
+![](images/delivery.png)
 

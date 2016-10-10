@@ -1,5 +1,3 @@
 
-## Integration
-
-![](images/integration.png)
+# Simplified Software Development Process
 

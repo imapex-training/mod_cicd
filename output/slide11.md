@@ -1,5 +1,9 @@
 
-## New "2nd Gen" CICD Tools 
+## Hudson and Jenkins
 
-![](images/travis_circle_drone.png)
+![](images/hudson_and_jenkins.png)
+
+[hudson-ci.org](http://hudson-ci.org)
+
+[jenkins.io](https://jenkins.io)
 
