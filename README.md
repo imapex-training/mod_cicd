@@ -8,6 +8,10 @@ Continuous Integration Continous Delivery
 
 [item]: # (/slide)
 
+## Abstract
+
+CICD... just one of so many new buzz words we've been exposed to over the last few years.  For many of us we hear the letters, know what they stand for, and can shout "Jenkins" faster than a feather falls, but what does it really mean?  In the session we will dive into CICD and come out with a detailed understanding of what happens in a "Code Pipeline".  This will happen primarily through a guided, hands on lab where each participant will build and deploy an application service with CICD.
+
 [item]: # (slide)
 # Main Topics
 
