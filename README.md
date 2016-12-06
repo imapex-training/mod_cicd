@@ -276,7 +276,7 @@ Drone will be interacting with external systems on behalf of the user, and to do
 
 # Experiments 
 
-To gain an understanding of using Drone, we will leverage the lab at: [hpreston/cicd\_learning\_lab](https://github.com/hpreston/cicd_learning_lab)
+To gain an understanding of using Drone, we will leverage the lab at: [imapex-training/cicd\_learning\_lab](https://github.com/imapex-training/cicd_learning_lab/blob/master/README.md)
 
 [item]: # (/slide)
 
