@@ -12,6 +12,10 @@ Continuous Integration Continous Delivery
 
 CICD... just one of so many new buzz words we've been exposed to over the last few years.  For many of us we hear the letters, know what they stand for, and can shout "Jenkins" faster than a feather falls, but what does it really mean?  In the session we will dive into CICD and come out with a detailed understanding of what happens in a "Code Pipeline".  This will happen primarily through a guided, hands on lab where each participant will build and deploy an application service with CICD.
 
+### Presentation Slides
+
+A slide show version of this presentation is available at this link: [CICD Slides](https://rawgit.com/imapex-training/mod_cicd/master/output/index.html#/)
+
 [item]: # (slide)
 # Main Topics
 
@@ -322,3 +326,4 @@ Continue working on the demoapp used in the experiments section and take the fol
 
 
 
+ 
